@@ -12,8 +12,8 @@ I'm trying to learn Vim also, so this is a the developing experience is going to
 
 ## 1) FreeCodeCamp
 
-The code I wrote coding along to [FreeCodeCamp's "Learn Rust Programming - Complete Course 🦀" video](https://www.youtube.com/watch?v=BpPEoZW5IiY&ab_channel=freeCodeCamp.org). Check out the directory [here]().
+The code I wrote coding along to [FreeCodeCamp's "Learn Rust Programming - Complete Course 🦀" video](https://www.youtube.com/watch?v=BpPEoZW5IiY&ab_channel=freeCodeCamp.org). Check out the directory [here](https://github.com/benyamindsmith/learningRust/tree/main/FreeCodeCamp).
 
 ## 2) ProjectEuler
 
-Solving problems from [projecteuler.net](https://projecteuler.net/archives). Check out teh directory [here]().
+Solving problems from [projecteuler.net](https://projecteuler.net/archives). Check out the directory [here](https://github.com/benyamindsmith/learningRust/tree/main/ProjectEuler).
