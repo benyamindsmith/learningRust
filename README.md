@@ -17,3 +17,7 @@ The code I wrote coding along to [FreeCodeCamp's "Learn Rust Programming - Compl
 ## 2) ProjectEuler
 
 Solving problems from [projecteuler.net](https://projecteuler.net/archives). Check out the directory [here](https://github.com/benyamindsmith/learningRust/tree/main/ProjectEuler).
+
+## 3) PortSniffer
+
+My code-along work with Tensor Programming's ["Rustlang Project: Port Sniffer CLI" video](https://www.youtube.com/watch?v=-Jp7sabBCp4&list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb&ab_channel=TensorProgramming). Check out the directory [here](./PortSniffer)
