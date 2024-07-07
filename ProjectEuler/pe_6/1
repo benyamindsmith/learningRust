@@ -1,0 +1,15 @@
+fn sum_squares(vals:Vec<i32>){
+
+   // let mut squares = vec![];
+
+    for i in vals.into_iter(){
+       // let element  = i^2;
+       // squares.push(element);
+        println!("{}",i);
+    }
+    
+}
+
+fn main(){
+    sum_squares((1..100).collect());
+}

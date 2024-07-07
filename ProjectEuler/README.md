@@ -13,3 +13,5 @@ Solutions to problems on projecteuler.net
 4. [Largest Palindrome Product](./pe_4)
 
 5. [Smallest Multiple](./pe_5)
+
+6. [Sum Square Difference](./pe_6)
